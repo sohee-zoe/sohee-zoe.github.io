@@ -8,7 +8,7 @@ layout: single
 
 **Sohee Lim**, Masters' Student
 
-Image Processing and Intelligent Systems Lab.([IPIS](ipis.cau.ac.kr))  
+Image Processing and Intelligent Systems Lab. (IPIS) [Homepage](ipis.cau.ac.kr)  
 Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University  
 207-617, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea  
 (e-mail) sohee@ipis.cau.ac.kr
