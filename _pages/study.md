@@ -1,6 +1,6 @@
 ---
 title: "Study"
-permalink: /categories/blog/
+permalink: /categories/study/
 layout: category
 author_profile: true
 taxonomy: study
