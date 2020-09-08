@@ -7,10 +7,9 @@ main:
     url: /categories/patents/
   - title: "Projectes"
     url: /categories/projects/
-    
-    
-#   - title: "Posts"
-#     url: /posts/
+  - title: "Posts"
+    url: /posts/
+  
 #   - title: "Categories"
 #     url: /categories/
 
