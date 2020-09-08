@@ -2,11 +2,11 @@
 
 main:
   - title: "Papers"
-    url: https://soheeEmon.github.io/docs/papers/
+    url: /docs/papers/
   - title: "Patents"
-    url: https://soheeemon.github.io/patents/patents-post/
+    url: /docs/patents/
   - title: "Projectes"
-    url: https://soheeemon.github.io/project/projects-post/
+    url: /docs/projects/
 #   - title: "Posts"
 #     url: /posts/
 #   - title: "Categories"
