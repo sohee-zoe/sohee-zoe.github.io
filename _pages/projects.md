@@ -3,8 +3,8 @@ title:  "Projects"
 author: 소라에몽
 permalink: /projects/
 layout: single
-autoh_profile: true
-taxonomy: projects
+# autoh_profile: true
+# taxonomy: projects
 # categories: Projects
 ---
 
