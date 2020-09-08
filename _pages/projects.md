@@ -1,7 +1,7 @@
 ---
 title:  "Projects"
 author: 소라에몽
-permalink: /docs/projects/
+permalink: /projects/
 categories: Projects
 ---
 
