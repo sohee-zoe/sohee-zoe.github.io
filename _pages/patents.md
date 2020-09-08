@@ -2,7 +2,7 @@
 title : "Patents"
 author: 소라에몽
 permalink: /categories/patents/
-layout: category
+layout: single
 autoh_profile: true
 taxonomy: patents
 ---
