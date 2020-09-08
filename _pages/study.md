@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "Study"
 permalink: /categories/blog/
 layout: category
 author_profile: true
-taxonomy: blog
+taxonomy: study
 ---
