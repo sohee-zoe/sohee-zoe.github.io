@@ -1,5 +1,6 @@
 ---
 title : "Patents"
+permalink: /docs/patents/
 categories: Patents
 ---
 
