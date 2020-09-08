@@ -4,7 +4,7 @@ author: 소라에몽
 permalink: /categories/projects/
 layout: category
 autoh_profile: true
-taxonomy: papers
+taxonomy: projects
 # categories: Projects
 ---
 
