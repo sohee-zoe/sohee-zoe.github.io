@@ -3,8 +3,8 @@ title:  "Papers"
 author: 소라에몽
 permalink: /papers/
 layout: single
-autoh_profile: true
-taxonomy: papers
+# autoh_profile: true
+# taxonomy: papers
 # categories: Papers
 ---
   
