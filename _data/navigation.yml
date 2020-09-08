@@ -7,6 +7,8 @@ main:
     url: /categories/patents/
   - title: "Projectes"
     url: /categories/projects/
+   - title: "About Me"
+    url: /about/   
     
   - title: "MVG"
     url: /categories/mvg/
