@@ -1,7 +1,10 @@
 ---
 title : "Patents"
-permalink: /patents/
-categories: Patents
+author: 소라에몽
+permalink: /categories/patents/
+layout: category
+autoh_profile: true
+taxonomy: patents
 ---
 
 |Filed|Inventors|Title|Title-Korean|Country|Application Number|Assignee|
