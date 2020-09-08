@@ -1,8 +1,11 @@
 ---
 title:  "Projects"
 author: 소라에몽
-permalink: /projects/
-categories: Projects
+permalink: /categories/projects/
+layout: category
+autoh_profile: true
+taxonomy: papers
+# categories: Projects
 ---
 
 |National Research|Start|End|Sponsor|Project Title|
