@@ -291,6 +291,10 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
 
 
 #   - scope:
