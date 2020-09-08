@@ -1,6 +1,7 @@
 ---
 title:  "Papers"
 author: 소라에몽
+permalink: /docs/papers/
 categories: Papers
 ---
 
