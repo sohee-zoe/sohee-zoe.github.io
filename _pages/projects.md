@@ -1,7 +1,7 @@
 ---
 title:  "Projects"
 author: 소라에몽
-permalink: /categories/projects/
+permalink: /projects/
 layout: single
 autoh_profile: true
 taxonomy: projects
