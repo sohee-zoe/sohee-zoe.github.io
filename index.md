@@ -1,10 +1,3 @@
-
----
-title: "About"
-permalink: /about/
-layout: single
----
-
 ## Contact
 
 **Sohee Lim**, Masters' Student  
