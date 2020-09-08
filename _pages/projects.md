@@ -1,6 +1,6 @@
 ---
 title:  "Projects"
-author: 소라에몽
+# author: 소라에몽
 permalink: /projects/
 layout: single
 # autoh_profile: true
