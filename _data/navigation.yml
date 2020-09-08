@@ -1,12 +1,12 @@
 # main links
 
 main:
-#   - title: "Papers"
-#     url: /papers/
-#   - title: "Patents"
-#     url: /patents/
-#   - title: "Projectes"
-#     url: /projects/
+  - title: "Papers"
+    url: /categories/papers/
+  - title: "Patents"
+    url: /categories/patents/
+  - title: "Projectes"
+    url: /categories/projects/
     
     
 #   - title: "Posts"
