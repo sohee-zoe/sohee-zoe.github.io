@@ -1,10 +1,16 @@
 # main links
 
 main:
+  - title: "Papers"
+    url: https://soheeemon.github.io/papers/papers-post/
+  - title: "Patents"
+    url: https://soheeemon.github.io/patents/patents-post/
+  - title: "Projectes"
+    url: https://soheeemon.github.io/project/projects-post/
 #   - title: "Posts"
 #     url: /posts/
-  - title: "Categories"
-    url: /categories/
+#   - title: "Categories"
+#     url: /categories/
 
 
 
