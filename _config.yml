@@ -94,14 +94,14 @@ analytics:
 # Site Author
 author:
   name             : "Sohee Lim"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**앙앙앙, 난 네가 정말 좋아**"
+  avatar           : "/assets/images/bio-photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "**앙앙앙, 난 네가 정말 좋아**, 소라에몽"
   location         : "Republic of Korea, Seoul"
   email            : "sohee@ipis.cau.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sohee@ipis.cau.ac.kr"
+      # url: "mailto:sohee@ipis.cau.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
