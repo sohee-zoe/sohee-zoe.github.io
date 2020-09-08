@@ -31,7 +31,7 @@ M.S., Digital Imaging Enginerring, Mar. 2019 - Now
 Adviser: Prof. Joonki Paik  
 
 
-**Hanbat national University**, Daejeon, Korea  
+**Hanbat National University**, Daejeon, Korea  
 B.S., Electronics and Control Engineering, Mar. 2014 - Feb. 2019  
 Adviser: Prof. Taeyong Doh
 
