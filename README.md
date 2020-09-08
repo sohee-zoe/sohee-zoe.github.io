@@ -10,4 +10,4 @@
 
 [GitHub 블로그 시작하기](https://honbabzone.com/jekyll/start-gitHubBlog/)
 
-[GitHub Pages 블로그 따라하기Permalink](https://devinlife.com/howto/)
+[GitHub Pages 블로그 따라하기](https://devinlife.com/howto/)
