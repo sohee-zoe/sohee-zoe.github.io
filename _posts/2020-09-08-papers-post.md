@@ -28,4 +28,4 @@ Domestic Journals
 
 Domestic Conference
 
-임소희, 신민우, 백준기, "지역적 기하학 정보를 이용한 점군 생성을 위한 생성적 적대 신경망," 2019년도 대한전자공학회 하계학술대회, 2019년 5월. (Ack. 국방)
+임소희, 신민우, 조윤지, 변상현, 백준기, "[지역적 기하학 정보를 이용한 점군 생성을 위한 생성적 적대 신경망](https://dbpia.co.kr/pdf/pdfView.do?nodeId=NODE08761972&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR)," 2019년도 대한전자공학회 하계학술대회, 2019년 5월. (Ack. 국방)
