@@ -281,14 +281,23 @@ defaults:
       share: true
       related: true
 
+# https://honbabzone.com/jekyll/start-gitHubBlog/#step-4-sample-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%ED%99%95%EC%9D%B8
+  # _pages
   - scope:
-      path: ""
-      type: tag
+      path: "_pages"
+      type: pages
     values:
+      layout: single
       author_profile: true
+
+#   - scope:
+#       path: ""
+#       type: tag
+#     values:
+#       author_profile: true
       
-  - scope:
-      path: ""
-      type: category
-    values:
-      comments: false
+#   - scope:
+#       path: ""
+#       type: category
+#     values:
+#       comments: false
