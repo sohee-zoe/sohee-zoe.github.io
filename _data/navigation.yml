@@ -4,11 +4,11 @@ main:
   - title: "About"
     url: /about/   
   - title: "Papers"
-    url: /categories/papers/
+    url: /papers/
   - title: "Patents"
-    url: /categories/patents/
+    url: /patents/
   - title: "Projectes"
-    url: /categories/projects/
+    url: /projects/
 
     
 #   - title: "MVG"
