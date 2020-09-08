@@ -1,8 +1,11 @@
 ---
 title:  "Papers"
 author: 소라에몽
-permalink: /papers/
-categories: Papers
+permalink: /categories/papers/
+layout: category
+autoh_profile: true
+taxonomy: papers
+# categories: Papers
 ---
 
 # International Journal
