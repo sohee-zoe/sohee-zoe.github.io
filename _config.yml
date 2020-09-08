@@ -290,14 +290,6 @@ defaults:
       layout: single
       author_profile: true
 
-  - scope:
-      path: "docs/_docs"
-      type: docs
-    values:
-      layout: single
-      author_profile: true
-
-
 
 #   - scope:
 #       path: ""
