@@ -2,13 +2,10 @@
 
 main:
   - title: "Posts"
-    url: /year-archive/
-  - title: "Pages"
-    url: /page-archive/
+    url: /posts/
   - title: "Categories"
     url: /categories/
-  - title: "Sitemap"
-    url: /sitemap/
+
 
 
 #  - title: "Quick-Start Guide"
