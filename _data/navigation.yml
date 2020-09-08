@@ -2,11 +2,11 @@
 
 main:
   - title: "Papers"
-    url: /docs/papers/
+    url: /papers/
   - title: "Patents"
-    url: /docs/patents/
+    url: /patents/
   - title: "Projectes"
-    url: /docs/projects/
+    url: /projects/
 #   - title: "Posts"
 #     url: /posts/
 #   - title: "Categories"
