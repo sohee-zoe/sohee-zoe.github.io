@@ -49,4 +49,4 @@ Mentor: Won-Pil Yu, Myoungchan Roh
 **ETRI**, Daejeon, Korea  
 Research intern, Jul. 2017 - Aug. 2017  
 Topic: 엑소브레인 사업의 언어이해 및 질의응답을 위한 언어 지식자원 구축  
-Mentor: Hyunki Kim, myung-Gil Jang  
+Mentor: Hyunki Kim, Myung-Gil Jang  
