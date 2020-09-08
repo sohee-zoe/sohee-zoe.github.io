@@ -1,6 +1,6 @@
 ---
 title : "Patents"
-author: 소라에몽
+# author: 소라에몽
 permalink: /patents/
 layout: single
 # autoh_profile: true
