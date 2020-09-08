@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Soraemon"
+title                    : "앙앙앙, 난 네가 정말 좋아"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sohee Lim"
+subtitle                 : "" # site tagline that appears below site title in masthead
+name                     : "Soraemon"
 description              : "Soraemon"
 url                      : "http://soheeEmon.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Sohee Lim"
   avatar           : "/assets/images/bio-photo.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "앙앙앙, 난 네가 정말 좋아, **소라에몽**"
+  bio              : "앙앙앙, 난 네가 정말 좋아 **소라에몽**"
   location         : "Republic of Korea, Seoul"
   email            : "sohee@ipis.cau.ac.kr"
   links:
