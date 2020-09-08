@@ -2,8 +2,7 @@
 
 main:
   - title: "About Me"
-    url: /
-#     url: /about/   
+    url: /about/   
   - title: "Papers"
     url: /categories/papers/
   - title: "Patents"
