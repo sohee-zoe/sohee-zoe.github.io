@@ -1,14 +1,15 @@
 # main links
 
 main:
+  - title: "About Me"
+    url: /about/   
   - title: "Papers"
     url: /categories/papers/
   - title: "Patents"
     url: /categories/patents/
   - title: "Projectes"
     url: /categories/projects/
-   - title: "About Me"
-    url: /about/   
+
     
   - title: "MVG"
     url: /categories/mvg/
