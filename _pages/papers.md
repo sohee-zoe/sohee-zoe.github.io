@@ -1,6 +1,6 @@
 ---
 title:  "Papers"
-author: 소라에몽
+# author: 소라에몽
 permalink: /papers/
 layout: single
 # autoh_profile: true
