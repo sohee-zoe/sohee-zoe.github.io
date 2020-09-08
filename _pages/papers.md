@@ -1,7 +1,7 @@
 ---
 title:  "Papers"
 author: 소라에몽
-permalink: /categories/papers/
+permalink: /papers/
 layout: single
 autoh_profile: true
 taxonomy: papers
