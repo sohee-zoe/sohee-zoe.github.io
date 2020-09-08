@@ -1,7 +1,7 @@
 ---
-title:  "Project"
+title:  "Projects"
 author: 소라에몽
-categories: Project
+categories: Projects
 ---
 
 |National Research|Start|End|Sponsor|Project Title|
