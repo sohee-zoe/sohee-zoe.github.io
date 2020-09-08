@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Papers"
 author: 소라에몽
 categories: Papers
