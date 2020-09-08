@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US" # "ko" #"en-US"
+locale                   : "ko" #"en-US"
 title                    : "앙앙앙, 난 네가 정말 좋아"
 title_separator          : "-"
 subtitle                 : "소라에몽" # site tagline that appears below site title in masthead
