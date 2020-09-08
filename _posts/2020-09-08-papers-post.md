@@ -3,9 +3,6 @@ layout: post
 title:  "Papers"
 author: 소라에몽
 categories: Papers
-# image: assets/images/11.jpg
-featured: true
-hidden: false
 ---
 
 
