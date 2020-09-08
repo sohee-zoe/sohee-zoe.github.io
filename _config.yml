@@ -280,3 +280,15 @@ defaults:
       comments: true
       share: true
       related: true
+
+  - scope:
+      path: ""
+      type: tag
+    values:
+      author_profile: true
+      
+  - scope:
+      path: ""
+      type: category
+    values:
+      comments: false
