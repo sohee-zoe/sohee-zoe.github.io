@@ -1,7 +1,7 @@
 ---
 title : "Patents"
 author: 소라에몽
-permalink: /categories/patents/
+permalink: /patents/
 layout: single
 autoh_profile: true
 taxonomy: patents
