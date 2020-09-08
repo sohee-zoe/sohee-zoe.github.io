@@ -7,6 +7,8 @@ autoh_profile: true
 taxonomy: papers
 # categories: Papers
 ---
+  
+
 
 # International Journal
 - **Sohee Lim**, Minwoo Shin, Joonki Paik, "Point Cloud Generation Using Deep Adversarial Local Features for Augmented and Mixed Reality Contents", *IEEE Trans. Consumer Electronics*, submitted for publication, June 2020.  
@@ -19,6 +21,7 @@ taxonomy: papers
 
 
 # Domestic Journals
+-  
 
 
 
