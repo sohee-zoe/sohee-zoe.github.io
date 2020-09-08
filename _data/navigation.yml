@@ -2,7 +2,7 @@
 
 main:
   - title: "Papers"
-    url: https://soheeemon.github.io/papers/papers-post/
+    url: /docs/papers/
   - title: "Patents"
     url: https://soheeemon.github.io/patents/patents-post/
   - title: "Projectes"
