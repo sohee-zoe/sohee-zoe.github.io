@@ -278,7 +278,7 @@ defaults:
       classes: wide
       author_profile: false # true
       read_time: false # true
-      comments: true
+      comments: false #true
       share: false # true
       related: false # true
 
