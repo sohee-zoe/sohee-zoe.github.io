@@ -26,7 +26,7 @@ Sohee Lim was born in Daejeon, South Korea, in 1995. She received her B.S. degre
   
   
 ## Education
-**Chungang University**, Seoul, Korea  
+**Chung-Ang University**, Seoul, Korea  
 M.S., Digital Imaging Enginerring, Mar. 2019 - Now  
 Adviser: Prof. Joonki Paik  
 
