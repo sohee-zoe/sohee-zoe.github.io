@@ -278,7 +278,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: # true
       related: true
 
 # https://honbabzone.com/jekyll/start-gitHubBlog/#step-4-sample-%EA%B2%8C%EC%8B%9C%EB%AC%BC-%ED%99%95%EC%9D%B8
