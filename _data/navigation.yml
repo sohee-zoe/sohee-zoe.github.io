@@ -1,8 +1,9 @@
 # main links
 
 main:
-#   - title: "About"
-#     url: /about/   
+  - title: "About"
+#     url: /about/
+    url: https://soheeEmon.github.io/
   - title: "Papers"
     url: /papers/
   - title: "Patents"
@@ -10,6 +11,7 @@ main:
   - title: "Projectes"
     url: /projects/
 
+# https://github.com/RafaelCartenet/rafaelcartenet.github.io/blob/master/_data/navigation.yml
     
 #   - title: "MVG"
 #     url: /categories/mvg/
