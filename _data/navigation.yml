@@ -3,7 +3,7 @@
 main:
   - title: "About"
 #     url: /about/
-    url: https://soheeEmon.github.io/
+    url: http://soraennon.github.io
   - title: "Papers"
     url: /papers/
   - title: "Patents"
