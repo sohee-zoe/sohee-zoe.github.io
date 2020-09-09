@@ -1,7 +1,7 @@
 ---
 title: "About"
-# permalink: /about/
-# layout: single
+permalink: /about/
+layout: single
 ---
 
 ## Contact
