@@ -4,8 +4,8 @@ main:
   - title: "About"
 #     url: /about/
     url: http://soraennon.github.io
-  - title: "Papers"
-    url: /papers/
+  - title: "Publications"
+    url: /publications/
   - title: "Patents"
     url: /patents/
   - title: "Projectes"
