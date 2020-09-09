@@ -1,7 +1,7 @@
 ---
 title: "About"
-permalink: /about/
-layout: single
+# permalink: /about/
+# layout: single
 ---
 
 ## Contact
@@ -40,13 +40,13 @@ Adviser: Prof. Taeyong Doh
   
 ## Researh Experience
 **ETRI**, Daejeon, Korea  
-Research intern, Jul. 2018 - Aug. 2018  
+Youth Intern, Jul. 2018 - Aug. 2018  
 Topic: ROS 개발환경 내 이동로봇의 자율주행 기술 개발, PCL (Point Cloud Library)를 활용한 3차원 지도 작성 기술 실험  
 Mentor: Won-Pil Yu, Myoungchan Roh  
 
 
 **ETRI**, Daejeon, Korea  
-Research intern, Jul. 2017 - Aug. 2017  
+Youth Intern, Jul. 2017 - Aug. 2017  
 Topic: 엑소브레인 사업의 언어이해 및 질의응답을 위한 언어 지식자원 구축  
 Mentor: Hyunki Kim, Myung-Gil Jang  
 
