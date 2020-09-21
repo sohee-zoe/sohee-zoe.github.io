@@ -25,5 +25,5 @@ Token `5ded072f6473ad39d2861131d7d21ede7898dcc2`
 
 
 ### Wiki Latex
-editor [1](https://www.codecogs.com/latex/eqneditor.php) [2](https://editor.codecogs.com/)
+editor [1](https://www.codecogs.com/latex/eqneditor.php) [2](https://editor.codecogs.com/)  
 `![equ](https://latex.codecogs.com/gif.latex?f_{i-1})`
