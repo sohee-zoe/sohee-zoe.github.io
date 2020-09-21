@@ -17,4 +17,4 @@
 [jekyll를 이용한 기술 블로그 설치 + 마크다운](http://tech.inswave.com/2018/02/13/setup/)
 
 
-Token 5ded072f6473ad39d2861131d7d21ede7898dcc2
+Token `5ded072f6473ad39d2861131d7d21ede7898dcc2`
