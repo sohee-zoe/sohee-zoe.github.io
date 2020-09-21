@@ -20,7 +20,10 @@
 Token `5ded072f6473ad39d2861131d7d21ede7898dcc2`
 
 
-[깃허브 팁](https://gaebal4.tistory.com/category/%F0%9F%8E%81%20%EC%BD%94%EB%94%A9%EC%97%90%20%EA%B4%80%ED%95%9C%20%ED%8C%81/Github%20%ED%8C%81)
+[깃허브 팁](https://gaebal4.tistory.com/category/%F0%9F%8E%81%20%EC%BD%94%EB%94%A9%EC%97%90%20%EA%B4%80%ED%95%9C%20%ED%8C%81/Github%20%ED%8C%81)  
 
-[Wiki Latex](https://editor.codecogs.com/)
+
+
+### Wiki Latex
+editor [1](https://www.codecogs.com/latex/eqneditor.php) [2](https://editor.codecogs.com/)
 `![equ](https://latex.codecogs.com/gif.latex?f_{i-1})`
