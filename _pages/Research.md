@@ -4,8 +4,10 @@ title:  "Research"
 permalink: /research/
 layout: single
 # autoh_profile: true
-# taxonomy: papers
-# categories: Papers
+# taxonomy: research
+# categories: Research
 ---
 
+
+## 3D
 ![fig](https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.PNG?raw=true)
