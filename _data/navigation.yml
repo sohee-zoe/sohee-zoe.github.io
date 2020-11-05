@@ -10,6 +10,8 @@ main:
     url: /patents/
   - title: "Projectes"
     url: /projects/
+  - title: "Researches"
+    url: /projects/
 
 # https://github.com/RafaelCartenet/rafaelcartenet.github.io/blob/master/_data/navigation.yml
     
