@@ -8,8 +8,9 @@ layout: single
 # categories: Research
 
 #![fig](https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.PNG)
+#<img src="https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.PNG" width="1280"></img>
 ---
 
 
 ## 3D
-<img src="https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.PNG" width="1280"></img>
+![fig](https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.png?raw=true)
