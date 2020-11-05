@@ -13,4 +13,4 @@ layout: single
 
 
 ## 3D
-![fig](https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.png?raw=true)
+![fig](https://github.com/soraennon/soraennon.github.io/blob/master/assets/images/pointcloud.png?raw=true?token=5ded072f6473ad39d2861131d7d21ede7898dcc2)
