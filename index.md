@@ -7,12 +7,16 @@ author_profile: true
 
 
 ## Contact
+**Sohee Lim**   
+<sohee.forest@gmail.com>  
 
-**Sohee Lim**, Master's Degree  
+
+<!-- **Sohee Lim**, Master's Degree  
 [Image Processing and Intelligent Systems Lab.](http://ipis.cau.ac.kr/)  
 Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University  
 207-617, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea  
-(e-mail) <sohee@ipis.cau.ac.kr> <sohee.forest@gmail.com>  
+(e-mail) <sohee@ipis.cau.ac.kr>    
+<sohee.forest@gmail.com>   -->
 
   
   
@@ -30,7 +34,6 @@ Sohee Lim was born in Daejeon, South Korea, in 1995. She received her B.S. degre
 **Chung-Ang University**, Seoul, Korea  
 M.S., Digital Imaging Enginerring, Mar. 2019 - Now  
 Adviser: Prof. Joonki Paik  
-
 
 **Hanbat National University**, Daejeon, Korea  
 B.S., Electronics and Control Engineering, Mar. 2014 - Feb. 2019  
