@@ -12,7 +12,7 @@ author_profile: true
 [Image Processing and Intelligent Systems Lab.](http://ipis.cau.ac.kr/)  
 Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University  
 207-617, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea  
-(e-mail) <sohee.forest@gmail.com>  
+(e-mail) <sohee@ipis.cau.ac.kr> <sohee.forest@gmail.com>  
 
   
   
