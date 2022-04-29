@@ -4,13 +4,19 @@ permalink: /about/
 layout: single
 ---
 
-## Contact
 
-**Sohee Lim**, Master's Degree  
+
+## Contact
+**Sohee Lim**   
+<sohee.forest@gmail.com>  
+
+
+<!-- **Sohee Lim**, Master's Degree  
 [Image Processing and Intelligent Systems Lab.](http://ipis.cau.ac.kr/)  
 Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang University  
 207-617, 84, Heukseok-ro, Dongjak-gu, Seoul, Republic of Korea  
-(e-mail) <sohee.forest@gmail.com>  
+(e-mail) <sohee@ipis.cau.ac.kr>    
+<sohee.forest@gmail.com>   -->
 
   
   
@@ -26,9 +32,8 @@ Sohee Lim was born in Daejeon, South Korea, in 1995. She received her B.S. degre
   
 ## Education
 **Chung-Ang University**, Seoul, Korea  
-M.S., Digital Imaging Enginerring, Mar. 2019 - Feb. 2021  
+M.S., Digital Imaging Enginerring, Mar. 2019 - Now  
 Adviser: Prof. Joonki Paik  
-
 
 **Hanbat National University**, Daejeon, Korea  
 B.S., Electronics and Control Engineering, Mar. 2014 - Feb. 2019  
@@ -38,7 +43,8 @@ Adviser: Prof. Taeyong Doh
   
   
   
-## Researh Experience
+<!-- ## Research Experience -->
+## Internships
 **ETRI**, Daejeon, Korea  
 Youth Intern, Jul. 2018 - Aug. 2018  
 Topic: ROS 개발환경 내 이동로봇의 자율주행 기술 개발, PCL (Point Cloud Library)를 활용한 3차원 지도 작성 기술 실험  
@@ -49,4 +55,3 @@ Mentor: Won-Pil Yu, Myoungchan Roh
 Youth Intern, Jul. 2017 - Aug. 2017  
 Topic: 엑소브레인 사업의 언어이해 및 질의응답을 위한 언어 지식자원 구축  
 Mentor: Hyunki Kim, Myung-Gil Jang  
-
