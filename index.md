@@ -43,7 +43,8 @@ Adviser: Prof. Taeyong Doh
   
   
   
-## Researh Experience
+<!-- ## Research Experience -->
+## Internships
 **ETRI**, Daejeon, Korea  
 Youth Intern, Jul. 2018 - Aug. 2018  
 Topic: ROS 개발환경 내 이동로봇의 자율주행 기술 개발, PCL (Point Cloud Library)를 활용한 3차원 지도 작성 기술 실험  
