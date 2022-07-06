@@ -13,5 +13,10 @@ layout: single
 ---
 
 
-## 3D
+## 3D Point Cloud Generation
 ![fig](../assets/images/pointcloud.png)
+
+
+
+## Video Stabilization
+![fig](../assets/images/VideoStab.png)
