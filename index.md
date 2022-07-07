@@ -23,7 +23,7 @@ Graduate School of Advanced Imaging Science, Multimedia & Film, Chung-Ang Univer
   
 ## Biography
 
-Sohee Lim was born in Daejeon, South Korea, in 1995. She received her B.S. degree in electronics and control engineering from Hanbat National University, South Korea, in 2019, and the M.S. degree in Image Engineering from Chung-Ang University. Her research interests include Image Processing, 3D Vision, Visual Geometry, and Deep Learning.
+Sohee Lim was born in Daejeon, South Korea, in 1995. She received her B.S. degree in electronics and control engineering from Hanbat National University, South Korea, in 2019, and the M.S. degree in Image Engineering from Chung-Ang University. Her research interests include Image Processing, Computer Vision, 3D Vision, Visual Geometry, and Deep Learning.
 
 
 
