@@ -102,10 +102,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:sohee@ipis.cau.ac.kr"
-    - label: "Website"
+      # url: "mailto:sohee.forest@gmail.com"
+    - label: "Blog" #Website
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://velog.io/@soraemon"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
