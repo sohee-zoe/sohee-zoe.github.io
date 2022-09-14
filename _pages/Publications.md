@@ -13,7 +13,7 @@ layout: single
 ## International Journal
 - **Sohee Lim**, Minwoo Shin, and Joonki Paik, "[Point Cloud Generation Using Deep Adversarial Local Features for Augmented and Mixed Reality Contents](https://ieeexplore.ieee.org/document/9674036)", *IEEE Trans. Consumer Electronics*, Published in Early Access, January 2022. (CM, AI, FD) (IF2021=2.947)
 - Jinbeum Jang, Minwoo Shin, **Sohee Lim**, Jonggook Park, Joungyeon Kim, and Joonki Paik, "[Intelligent Image-Based Railway Inspection System Using Deep Learning-Based Object Detection and Weber Contrast-Based Image Comparison](https://www.mdpi.com/1424-8220/19/21/4738)," *Sensors*, vol. 19, no. 21, pp. 4738-4754, October 2019.  
-- **Sohee Lim**, Minwoo Shin, and Joonki Paik, "[Point Cloud Generation Using Deep Adversarial Local Features for Augmented and Mixed Reality Contents", IEEE Trans. Consumer Electronics, vol. 68, no. 1, pp. 69-76, February, 2022. (CM, AI, FD, IF2021=2.739)](https://ieeexplore.ieee.org/document/9674036/)
+- **Sohee Lim**, Minwoo Shin, and Joonki Paik, "[Point Cloud Generation Using Deep Adversarial Local Features for Augmented and Mixed Reality Contents", IEEE Trans. Consumer Electronics](https://ieeexplore.ieee.org/document/9674036/), vol. 68, no. 1, pp. 69-76, February, 2022. (CM, AI, FD, IF2021=2.739)
 
 ---
 
