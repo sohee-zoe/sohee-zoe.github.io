@@ -9,6 +9,7 @@ layout: single
 ## Contact
 **Sohee Lim**   
 <sohee.forest@gmail.com>  
+[https://soraennon.github.io](https://soraennon.github.io/)    
 
 
 <!-- **Sohee Lim**, Master's Degree  
