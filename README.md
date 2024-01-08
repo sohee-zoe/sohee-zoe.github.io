@@ -17,7 +17,7 @@
 [jekyll를 이용한 기술 블로그 설치 + 마크다운](http://tech.inswave.com/2018/02/13/setup/)
 
 
-Token `5ded072f6473ad39d2861131d7d21ede7898dcc2`
+blog Token `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`
 
 
 [깃허브 팁](https://gaebal4.tistory.com/category/%F0%9F%8E%81%20%EC%BD%94%EB%94%A9%EC%97%90%20%EA%B4%80%ED%95%9C%20%ED%8C%81/Github%20%ED%8C%81)  
