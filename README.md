@@ -16,6 +16,8 @@
 
 [jekyll를 이용한 기술 블로그 설치 + 마크다운](http://tech.inswave.com/2018/02/13/setup/)
 
+[블로그 프라이븟 레포에서 머지](https://myungji.dev/posts/2021-02-16-fork-own-repo/)
+
 
 blog Token `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`
 
